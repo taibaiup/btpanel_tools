@@ -1,6 +1,6 @@
 #!/bin/bash
 #全局变量
-download_url=https://raw.githubusercontent.com/gacjie/btpanel_tools/main
+download_url=https://raw.yzuu.cf/taibaiup/btpanel_tools/main
 panel_path=/www/server/panel
 tools_version='220516'
 #检查是否安装面板
